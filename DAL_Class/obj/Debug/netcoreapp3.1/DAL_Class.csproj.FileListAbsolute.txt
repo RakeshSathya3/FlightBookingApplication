@@ -1,0 +1,13 @@
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\bin\Debug\netcoreapp3.1\DAL_Class.deps.json
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\bin\Debug\netcoreapp3.1\DAL_Class.runtimeconfig.json
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\bin\Debug\netcoreapp3.1\DAL_Class.runtimeconfig.dev.json
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\bin\Debug\netcoreapp3.1\DAL_Class.dll
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\bin\Debug\netcoreapp3.1\DAL_Class.pdb
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.csproj.AssemblyReference.cache
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.AssemblyInfoInputs.cache
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.AssemblyInfo.cs
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.dll
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.pdb
+C:\Users\cogdotnet05\source\repos\FlightBookingApplication\DAL_Class\obj\Debug\netcoreapp3.1\DAL_Class.genruntimeconfig.cache

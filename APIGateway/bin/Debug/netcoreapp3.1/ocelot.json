@@ -1,0 +1,27 @@
+{
+  "Routes": [
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/GetFlightDetails",
+      "DownstreamScheme": "http",
+      "ServiceName": "FlightApplication",
+      "UpstreamPathTemplate": "/api/gatway/GetFlightDetails",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/GetUserDetails",
+      "DownstreamScheme": "http",
+      "ServiceName": "UserApplication",
+      "UpstreamPathTemplate": "/api/gatway/GetUserDetails",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": "8500",
+      "Type": "Consul"
+    }
+  }
+}
